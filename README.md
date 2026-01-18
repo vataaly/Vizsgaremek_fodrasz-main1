@@ -1,7 +1,7 @@
 # Fodrász időpontfoglaló rendszer – Projekt specifikáció
 
 ## Projekt neve
-Időpont Foglalás
+Időpont Foglalás.
 
 ## Csapat tagjai DD
 - Döbrössy Bálint 
